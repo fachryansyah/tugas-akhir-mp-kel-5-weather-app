@@ -1,10 +1,10 @@
 # Weather App
 
 Weather app kelompok 5, anggota kelompok:
-- 1. Muhammad Fahriansyah
-- 2. Muhammad Khoirul Isya
-- 3. Prima Jarot Rama
-- 4. Qurrotul Ayun
+- Muhammad Fahriansyah
+- Muhammad Khoirul Isya
+- Prima Jarot Rama
+- Qurrotul Ayun
 
 ## Getting Started
 
