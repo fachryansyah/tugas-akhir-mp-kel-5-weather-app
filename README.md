@@ -6,6 +6,8 @@ Weather app kelompok 5, anggota kelompok:
 - Prima Jarot Rama
 - Qurrotul Ayun
 
+![Screenshot](https://github.com/fachryansyah/tugas-akhir-mp-kel-5-weather-app/blob/main/ss.png?raw=true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
